@@ -6,9 +6,19 @@ A rock paper scissors game where the win condition can either be trying to win t
 * Emojis, shadow/glow effect
 
 ## Screenshots
-
-<p float="left">
-  <img width="473" alt="pro4" src="https://user-images.githubusercontent.com/29722295/194786270-41fddcef-888a-43d0-8dd8-ba93c9b90526.png">
-  <img width="473" alt="proj4-2" src="https://user-images.githubusercontent.com/29722295/194786278-6cfc9c96-29e3-4863-8b51-e7a6f66d628b.png">
-  <img width="473" alt="proj4-3" src="https://user-images.githubusercontent.com/29722295/194786287-d9947536-24f1-44de-9a4e-728b3d304749.png">
-</p>
+<table>
+  <tr>
+    <td align="middle">Win vs Standard RPS</td>
+    <td align="middle">Switch Your Thinking to Lose</td>
+  </tr>
+  <tr>
+    <td><img width="473" alt="pro4" src="https://user-images.githubusercontent.com/29722295/194786270-41fddcef-888a-43d0-8dd8-ba93c9b90526.png"/></td>
+    <td><img width="473" alt="proj4-2" src="https://user-images.githubusercontent.com/29722295/194786278-6cfc9c96-29e3-4863-8b51-e7a6f66d628b.png"/></td>
+  </tr>
+  <tr>
+    <td align="middle">Game Over Screen</td>
+  </tr>
+  <tr>
+    <td><img width="473" alt="proj4-3" src="https://user-images.githubusercontent.com/29722295/194786287-d9947536-24f1-44de-9a4e-728b3d304749.png"/></td>
+  </tr>
+</table>
